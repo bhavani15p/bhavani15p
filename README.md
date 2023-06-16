@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Bhavani Puttaraj!</h1>
-<h3 align="center">A passionate frontend developer and aspiring full stack developer.</h3>
 <img align="right" alt="coding-girl" width="400" src="https://i.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavani15p&label=Profile%20views&color=0e75b6&style=flat" alt="bhavani15p" /> </p>
 
