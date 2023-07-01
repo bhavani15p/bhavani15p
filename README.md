@@ -2,17 +2,17 @@
 <img align="right" alt="coding-girl" width="400" src="https://i.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavani15p&label=Profile%20views&color=0e75b6&style=flat" alt="bhavani15p" /> </p>
 
-- 🔭 I’m currently a Graduate student from **S.E.A. College of Engineering and Technology.**
+- 🔭 (B.E) Graduate student from **S.E.A. College of Engineering and Technology.**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 Currently learning **Back-end Development, DSA**
 
-- 📫 How to reach me **bhavaniputtaraj12@gmail.com**
+- 📫 Reach me at **bhavaniputtaraj12@gmail.com**
 
-- ⚡ Fun fact **Loves to learn everything i love!**
+- ⚡ **Loves to learn everything i love!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/bhavaniputtaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhavaniputtaraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavaniputtaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhavaniputtaraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
