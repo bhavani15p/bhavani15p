@@ -4,9 +4,9 @@
 
 - 🔭 (B.E) Graduate student from **S.E.A. College of Engineering and Technology.**
 
-- 🌱 Currently learning **Back-end Development, DSA**
+- 🌱 Interested in **Development and Testing** Opportunities.
 
-- 📫 Reach me at **bhavaniputtaraj12@gmail.com**
+- 📫 Reach me at **bhavaniputtaraj03@gmail.com**
 
 - ⚡ **Loves to learn everything i love!**
 
