@@ -4,11 +4,11 @@
 
 - 🔭 (B.E) 2023 - Graduate student from **S.E.A. College of Engineering and Technology.**
 
-- 🌱 Interested in **Development and Testing** Job Opportunities.
+- 🌱 Looking for **Development** Job Opportunities.
 
 - 📫 Reach me at **bhavaniputtaraj03@gmail.com**
 
-- ⚡ **Loves to learn everything i love!**
+- ⚡ **Highly motivated and adaptable person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
