@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani15p&show_icons=true&locale=en" alt="bhavani15p" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavani15p&" alt="bhavani15p" /></p>
