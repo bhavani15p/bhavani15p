@@ -4,8 +4,6 @@
 
 - 🔭 (B.E) 2023 - Graduate student from **S.E.A. College of Engineering and Technology.**
 
-- 🌱 Looking for **Development** Job Opportunities.
-
 - 📫 Reach me at **bhavaniputtaraj03@gmail.com**
 
 - ⚡ **Highly motivated and adaptable person**
