@@ -2,7 +2,7 @@
 <img align="right" alt="coding-girl" width="400" src="https://i.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavani15p&label=Profile%20views&color=0e75b6&style=flat" alt="bhavani15p" /> </p>
 
-- 🔭 Test Associate at  **IGS**
+- 🔍 Test Associate at  **IGS**
 
 - 🔭 (B.E) 2023 - Graduate student from **S.E.A. College of Engineering and Technology.**
 
